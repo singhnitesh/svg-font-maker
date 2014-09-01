@@ -1,0 +1,28 @@
+{
+  "name": "fontello-brunch",
+  "version": "0.0.1",
+  "description": "compiles svgs into fonts using fontello-cli",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/singhnitesh/fontello-brunch.git"
+  },
+  "keywords": [
+    "fontello",
+    "brunch",
+    "plugin",
+    "svg",
+    "font"
+  ],
+  "author": "Nitesh Singh",
+  "license": "GPL v2",
+  "bugs": {
+    "url": "https://github.com/singhnitesh/fontello-brunch/issues"
+  },
+  "devDependencies": {
+    "fontello-cli": "~0.3.0"
+  }
+}

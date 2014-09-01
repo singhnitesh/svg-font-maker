@@ -1,0 +1,8 @@
+# Fontello-Brunch
+
+# Ignore sublime text project files.
+fontello-brunch.sublime-project
+fontello-brunch.sublime-workspace
+
+# Ignore npm modules
+node_modules
